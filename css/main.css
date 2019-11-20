@@ -150,6 +150,9 @@ align-items: center;
 
 .flex-container {
   /*set display to flex and vertically & horizontally align by setting justify-content and align-items to center, and set flex-flow to row wrap*/
+display: flex;
+justify-content: center;
+align-items: center;
 }
 
 .flex-items {
